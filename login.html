@@ -1,71 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
-    <link rel="stylesheet" href="css/login-style.css">
+    <link rel="stylesheet" href="style.css">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
-        content="width=device-width,  initial-scale=1.0">
+        content="width=device-width, 
+                        initial-scale=1.0">
     <title>Brio Bistro</title>
-    <link rel="stylesheet"  href="css/login-style.css">
+    <link rel="stylesheet"
+        href="style.css">
 </head>
 
 <body>
     <header>
-         
         <h1 class="heading">Brio Bistro</h1>
-        <h3 class="title">Login & Sign Up</h3>
     </header>
-
-    <!-- container div -->
-    <div class="container">
-
-        <!-- upper button section to select
-            the login or signup form -->
-        <div
-             class="slider">
-        </div>
-
-        <div class="btn">
-            <button class="login">Login</button>
-            <button class="signup">Signup</button>
-        </div>
-
-        <!-- Form section that contains the
-            login and the signup form -->
-        <div class="form-section">
-
-            <!-- login form -->
-            <div class="login-box">
-                <input type="email"
-                    class="email ele"
-                    placeholder="youremail@email.com">
-                <input type="password"
-                    class="password ele"
-                    placeholder="password">
-                <button class="clkbtn">Login</button>
-            </div>
-
-            <!-- signup form -->
-            <div class="signup-box">
-                <input type="text"
-                    class="name ele"
-                    placeholder="Enter your name">
-                <input type="email"
-                    class="email ele"
-                    placeholder="youremail@email.com">
-                <input type="password"
-                    class="password ele"
-                    placeholder="password">
-                <input type="password"
-                    class="password ele"
-                    placeholder="Confirm password">
-                <button class="clkbtn">Signup</button>
-            </div>
-        </div>
-    </div>
-    <script 
-        src="javsc/login.js">
-    </script>
-</body>
-<script src="login.js"></script>
-</html>
+    <head>
+        <title>Login / Sign Up</title>
+    </head>
+    <body>
+        <h2>Login</h2>
+        <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
+            <input type="hidden" name="login" value="login">
+            <label>Email:</label><br>
+            <input type="email" name="email" required><br>
+            <label>Password:</label><br>
+            <input type="password" name="password" required><br>
+            <input type="submit" value="Login">
+        </form>
+    
+        <h2>Sign Up</h2>
+        <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
+            <input type="hidden" name="signup" value="signup">
+            <label>Name:</label><br>
+            <input type="text" name="name" required><br>
+            <label>Email:</label><br>
+            <input type="email" name="email" required><br>
+            <label>Password:</label><br>
+            <input type="password" name="password" required><br>
+            <label>Retype Password:</label><br>
+            <input type="password" name="retype_password" required><br>
+            <input type="submit" value="Sign Up">
+        </form>
+    </body>
+    </html>
