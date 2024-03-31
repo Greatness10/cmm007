@@ -29,35 +29,10 @@
         <div class="container-fluid header_top_container">
 
           <div class="contact_nav">
-            <a href="https://maps.app.goo.gl/HKUEPpj8ZD7ntK3F8">
-              <i class="fa fa-map-marker" aria-hidden="true"></i>
-              <span>
-                Location
-              </span>
-            </a>
-            <a href="tel:+447909430418">
-              <i class="fa fa-phone" aria-hidden="true"></i>
-              <span>
-                Call : +447909430418
-              </span>
-            </a>
-            <a href="mailto:oyinkansolagreatness@gmail.com">
-              <i class="fa fa-envelope" aria-hidden="true"></i>
-              <span>
-                oyinkansolagreatness@gmail.com
-              </span>
-            </a>
+            <!-- Contact info -->
           </div>
           <div class="social_box">
-            <a href="https://www.facebook.com" target="_blank">
-              <i class="fa fa-facebook" aria-hidden="true"></i>
-            </a>
-            <a href="https://www.twitter.com" target="_blank">
-              <i class="fa fa-twitter" aria-hidden="true"></i>
-            </a>
-            <a href="https://www.instagram.com" target="_blank">
-              <i class="fa fa-instagram" aria-hidden="true"></i>
-            </a>
+            <!-- Social links -->
           </div>
         </div>
       </div>
@@ -71,73 +46,137 @@
             </button>
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-              <ul class="navbar-nav  ">
-                <li class="nav-item ">
-                  <a class="nav-link" href="index.html">Home </a>
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="about.html"> About</a>
                 </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="recipes.html">Recipes</a>
+                <li class="nav-item ">
+                    <a class="nav-link" href="recipes.html"> Recipes </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="chef.html"> Chef </a>
                 </li>
-                <li class="nav-item active">
-                  <a class="nav-link" href="contact.html">Contact Us <span class="sr-only">(current)</span></a>
+                <li class="nav-item">
+                  <a class="nav-link" href="contact.html">Contact Us</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="login.html">
                     <i class="fa fa-user" aria-hidden="true"></i>
-                    <span>
-                      Login
-                    </span>
+                    <span>Login</span>
                   </a>
                 </li>
-                <form class="form-inline justify-content-center">
-                  <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
-                    <i class="fa fa-search" aria-hidden="true"></i>
-                  </button>
-                </form>
+                <li class="btn-box">
+                    <button class="nav-link" onclick="window.location.href='upload_recipes.html';">
+                        <i class="" aria-hidden="true"></i>
+                        <span>Upload Recipes</span>
+                    </button>
+                </li>
+                
               </ul>
+              <form class="form-inline my-2 my-lg-0">
+                <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
+                  <i class="fa fa-search" aria-hidden="true"></i>
+                </button>
+              </form>
             </div>
           </nav>
         </div>
       </div>
     </header>
-    <!-- end header section -->
-  </div>
-  <section class="about_section layout_padding">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-md-5 offset-md-1">
-          <div class="detail-box pr-md-2">
-            <div class="heading_container">
-              <h2 class="">
-                About Us
-              </h2>
-            </div>
-            <p class="detail_p_mt">
-                Experience the world of delight with our dynamic recipe and chef web application. Dive into a treasure trove of gourment masterpiece made by renownwed chefs, from classic comfort foods to African delight, discover range of recipes to suit any taste. Connect with a vibrant community of foodies, discuss cooking ideas, and showcase your culinary creations, and improve your cooking talent. Whether you are a beginner or an experinced chef, our platform will take you on a tasty voyage of exploration and innovation.
+
+    <section class="slider_section ">
+      <!-- Slider section content -->
+    </section>
+
+    <section class="recipes_section layout_padding">
+        <div class="container">
+          <div class="heading_container heading_center ">
+            <h2 class="">
+              Recipes
+            </h2>
+            <p class="col-lg-8 px-0">
+              If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything
             </p>
-            <a href="about.html" class="">
+          </div>
+          <div class="recipes_container">
+            <div class="carousel-wrap ">
+              <div class="recipes owl-carousel">
+                <div class="item">
+                  <div class="box ">
+                    <div class="img-box">
+                      <img src="images\deli.jpg" alt="" />
+                    </div>
+                    <div class="detail-box">
+                      <h5>
+                        African Recipes
+                      </h5>
+                      <p>
+                        when looking at its layout. The point of using Lorem Ipsum is
+                        that it has a more-or-less normal
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="box ">
+                    <div class="img-box">
+                      <img src="images\recipe.jpg" alt="" />
+                    </div>
+                    <div class="detail-box">
+                      <h5>
+                        Western Cuisines
+                      </h5>
+                      <p>
+                        when looking at its layout. The point of using Lorem Ipsum is
+                        that it has a more-or-less normal
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="box ">
+                    <div class="img-box">
+                      <img src="images/s4.png" alt="" />
+                    </div>
+                    <div class="detail-box">
+                      <h5>
+                        Asian Recipes
+                      </h5>
+                      <p>
+                        when looking at its layout. The point of using Lorem Ipsum is
+                        that it has a more-or-less normal
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="box ">
+                    <div class="img-box">
+                      <img src="images\asia rec.webp" alt="" />
+                    </div>
+                    <div class="detail-box">
+                      <h5>
+                      Homemade Traditional Cuisines                        </h5>
+                      <p>
+                        when looking at its layout. The point of using Lorem Ipsum is
+                        that it has a more-or-less normal
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="btn-box">
+            <a href="">
               Read More
             </a>
           </div>
         </div>
-        <div class="col-md-6 px-0">
-          <div class="img-box ">
-            <img src="images\R.jpeg" class="box_img" alt="about img">
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- about section ends -->
-
-  <!-- info section -->
+      </section>
   <section class="info_section ">
     <div class="container">
       <div class="info_top">
@@ -208,7 +247,6 @@
               </h5>
               <p>
                 An innovative chef and recipe web application that is redefining culinary experinces around the world. We select a variety of recipes from famous chefs to provide culinary inspiration for all tastes. The platform encourages community interaction by connecting food enthusiasts and professionals alike. Join us for a savoury journey of creativity, competence, and culinary enjoyment.
-
               </p>
             </div>
           </div>
@@ -251,9 +289,6 @@
     </div>
   </section>
 
-  <!-- end info_section -->
-
-  <!-- footer section -->
   <footer class="footer_section">
     <div class="container">
       <p>
@@ -262,25 +297,24 @@
       </p>
     </div>
   </footer>
-  <!-- footer section -->
+  
 
-  <!-- jQery -->
-  <script src="js/jquery-3.4.1.min.js"></script>
-  <!-- popper js -->
+    <script src="js/jquery-3.4.1.min.js"></script>
+  
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-  <!-- bootstrap js -->
+  
   <script src="js/bootstrap.js"></script>
-  <!-- owl slider -->
+  
   <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-  <!-- nice select -->
+  
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/js/jquery.nice-select.min.js" integrity="sha256-Zr3vByTlMGQhvMfgkQ5BtWRSKBGa2QlspKYJnkjZTmo=" crossorigin="anonymous"></script>
-  <!-- custom js -->
+  
   <script src="js/custom.js"></script>
-  <!-- Google Map -->
+  
   <script src="https://maps.app.goo.gl/HKUEPpj8ZD7ntK3F8"></script>
-  <!-- End Google Map -->
+  <script>
+</script>
+
 </body>
 
 </html>
-  
-

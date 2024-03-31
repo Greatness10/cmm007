@@ -64,7 +64,7 @@
       <div class="header_bottom">
         <div class="container-fluid">
           <nav class="navbar navbar-expand-lg custom_nav-container ">
-            <a class="navbar-brand " href="index.html"> Brio Bistro </a>
+            <a class="navbar-brand " href="index.php"> Brio Bistro </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class=""> </span>
@@ -73,24 +73,24 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav  ">
                 <li class="nav-item ">
-                  <a class="nav-link" href="index.html">Home </a>
+                  <a class="nav-link" href="index.php">Home </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="about.html"> About</a>
+                  <a class="nav-link" href="about.php"> About</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="recipes.html">Recipes</a>
+                  <a class="nav-link" href="recipes.php">Recipes</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="chef.html"> Chef </a>
+                  <a class="nav-link" href="chef.php"> Chef </a>
                 </li>
                 <li class="nav-item active">
-                  <a class="nav-link" href="contact.html">Contact Us <span class="sr-only">(current)</span></a>
+                  <a class="nav-link" href="contact.php">Contact Us <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="login.html">
+                  <a class="nav-link" href="login.php">
                     <i class="fa fa-user" aria-hidden="true"></i>
-                <span>
+                    <span>
                       Login
                     </span>
                   </a>
@@ -106,60 +106,36 @@
         </div>
       </div>
     </header>
-    
+    <!-- end header section -->
   </div>
-
-  
-  <section class="contact_section ">
+  <section class="about_section layout_padding">
     <div class="container-fluid">
-
       <div class="row">
-        <div class="col-md-6 px-0">
-          <div class="img-box ">
-            <img src="images/contact-img.jpg" class="box_img" alt="about img">
+        <div class="col-md-5 offset-md-1">
+          <div class="detail-box pr-md-2">
+            <div class="heading_container">
+              <h2 class="">
+                About Us
+              </h2>
+            </div>
+            <p class="detail_p_mt">
+                Experience the world of delight with our dynamic recipe and chef web application. Dive into a treasure trove of gourment masterpiece made by renownwed chefs, from classic comfort foods to African delight, discover range of recipes to suit any taste. Connect with a vibrant community of foodies, discuss cooking ideas, and showcase your culinary creations, and improve your cooking talent. Whether you are a beginner or an experinced chef, our platform will take you on a tasty voyage of exploration and innovation.
+            </p>
+            <a href="about.php" class="">
+              Read More
+            </a>
           </div>
         </div>
-        <div class="col-md-5 mx-auto">
-          <div class="form_container">
-            <div class="heading_container heading_center">
-              <h2>Get In Touch</h2>
-            </div>
-            <form action="">
-              <div class="form-row">
-                <div class="form-group col">
-                  <input type="text" class="form-control" placeholder="Your Name" />
-                </div>
-              </div>
-              <div class="form-row">
-                <div class="form-group col-lg-6">
-                  <input type="text" class="form-control" placeholder="Phone Number" />
-                </div>
-                <div class="form-group col-lg-6">
-                  
-                </div>
-              </div>
-              <div class="form-row">
-                <div class="form-group col">
-                  <input type="email" class="form-control" placeholder="Email" />
-                </div>
-              </div>
-              <div class="form-row">
-                <div class="form-group col">
-                  <input type="text" class="message-box form-control" placeholder="Message" />
-                </div>
-              </div>
-              <div class="btn_box">
-                <button>
-                  SEND
-                </button>
-              </div>
-            </form>
+        <div class="col-md-6 px-0">
+          <div class="img-box ">
+            <img src="images\R.jpeg" class="box_img" alt="about img">
           </div>
         </div>
       </div>
     </div>
   </section>
-  <!-- end contact section -->
+
+  <!-- about section ends -->
 
   <!-- info section -->
   <section class="info_section ">
@@ -167,7 +143,7 @@
       <div class="info_top">
         <div class="row">
           <div class="col-md-3 ">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
               Brio Bistro
             </a>
           </div>
@@ -232,6 +208,7 @@
               </h5>
               <p>
                 An innovative chef and recipe web application that is redefining culinary experinces around the world. We select a variety of recipes from famous chefs to provide culinary inspiration for all tastes. The platform encourages community interaction by connecting food enthusiasts and professionals alike. Join us for a savoury journey of creativity, competence, and culinary enjoyment.
+
               </p>
             </div>
           </div>
@@ -242,27 +219,27 @@
               </h5>
               <ul class="info_menu">
                 <li>
-                  <a href="index.html">
+                  <a href="index.php">
                     Home
                   </a>
                 </li>
                 <li>
-                  <a href="about.html">
+                  <a href="about.php">
                     About
                   </a>
                 </li>
                 <li>
-                  <a href="recipes.html">
+                  <a href="recipes.php">
                     Recipes
                   </a>
                 </li>
                 <li>
-                  <a href="chef.html">
+                  <a href="chef.php">
                     Chef
                   </a>
                 </li>
                 <li class="mb-0">
-                  <a href="contact.html">
+                  <a href="contact.php">
                     Contact Us
                   </a>
                 </li>
@@ -305,3 +282,5 @@
 </body>
 
 </html>
+  
+
