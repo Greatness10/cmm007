@@ -661,7 +661,7 @@
         
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/js/jquery.nice-select.min.js" integrity="sha256-Zr3vByTlMGQhvMfgkQ5BtWRSKBGa2QlspKYJnkjZTmo=" crossorigin="anonymous"></script>
         
-        <script src="js/custom.js"></script>
+        <script src="javsc/custom.js"></script>
         
         <script src="https://maps.app.goo.gl/HKUEPpj8ZD7ntK3F8"></script>
       

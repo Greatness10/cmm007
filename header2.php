@@ -90,6 +90,9 @@ session_start();
                   <li class="nav-item">
                     <a class="nav-link" href="contact.php">Contact Us</a>
                   </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="upload_recipes.php">Upload</a>
+                </li>
                   <a class="nav-item" href=""><?php if(isset($_SESSION['loggedin'])&&$_SESSION['loggedin']=='true'){
                 echo 'welcome '.$_SESSION['username'];
             } 
