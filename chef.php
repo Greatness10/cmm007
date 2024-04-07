@@ -124,14 +124,14 @@
                 <div class="col-lg-10 col-md-11 mx-auto">
                   <div class="detail-box">
                     <h1>
-                        Recipes 
+                        Justine Li
                     </h1>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis fugit, sed tempora praesentium commodi error, hic recusandae repudiandae neque ad molestias, atque veritatis labore quae eveniet autem in
+                    Chef Justine Li is an accomplished culinary artist who has made her mark in the world of gastronomy.With over three decades of experience in western cuisines, Chef Justine Li is the chef-owner of Fleur de Sel, a one-MICHELIN-starred restaurant located in Taichung, Taiwan. Her culinary journey reflects perseverance and an unwavering “never give up” attitude, which serves as an inspiration to many.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
-                        View Recipes
+                        View Chef
                       </a>
                     </div>
                   </div>
@@ -145,14 +145,14 @@
                 <div class="col-lg-10 col-md-11 mx-auto">
                   <div class="detail-box">
                     <h1>
-                      Tasty Sushi Delights
+                      Raphael King’ori
                     </h1>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis fugit, sed tempora praesentium commodi error, hic recusandae repudiandae neque ad molestias, atque veritatis labore quae eveniet autem in
+                    Chef Raphael King’ori, also known as Chef Raphael, is a culinary artist with an impressive background and a passion for creating exceptional meals. Chef Raphael’s cooking philosophy revolves around flavor and authenticity. He believes in using quality ingredients to create memorable dining experiences.His expertise spans over 25 years in the hospitality industry, and he draws inspiration from both tradition.            
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
-                        View Recipes
+                        View Chef
                       </a>
                     </div>
                   </div>
@@ -169,11 +169,11 @@
                       Mouthwatering Pizza Recipes
                     </h1>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis fugit, sed tempora praesentium commodi error, hic recusandae repudiandae neque ad molestias, atque veritatis labore quae eveniet autem in
+                    Chef Andrew Gruel, born in 1980, is an American culinary dynamo and television personality hailing from Orange County, California.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
-                        View Recipes
+                        View Chef
                       </a>
                     </div>
                   </div>
@@ -203,7 +203,7 @@
     <div class="container">
       <div class="heading_container heading_center ">
         <h2 class="">
-          Our Recipes
+          Our Chef
         </h2>
         <p class="col-lg-8 px-0">
           If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything
@@ -213,26 +213,25 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
-          Popular Recipes
+          Popular Chefs
         </h2>
         <p>
-          Lorem ipsum dolor sit amet, non odio tincidunt ut ante, lorem a euismod suspendisse vel, sed quam nulla mauris
-          iaculis. Erat eget vitae malesuada, tortor tincidunt porta lorem lectus.
+        Experience the world of delight with our dynamic recipe and chef web application. Dive into a treasure trove of gourment masterpiece made by renownwed chefs, from classic comfort foods to African delight, discover range of recipes to suit any taste.
         </p>
       </div>
       <div class="row">
         <div class="col-md-4 col-sm-6 mx-auto">
           <div class="box">
             <div class="img-box">
-              <img src="images/West.jpg" alt="">
+              <img src="images\andrew.jpg" alt="">
             </div>
             <div class="detail-box">
               <h5>
-                Western Cusine
+                Andrew Gruel
                 
               </h5>
               <h6 class="">
-                full recipes
+                Chef
               </h6>
             </div>
           </div>
@@ -244,10 +243,10 @@
             </div>
             <div class="detail-box">
               <h5>
-                Denny Butler
+                Justine Li
               </h5>
               <h6 class="">
-                African Cusine
+                Chef
               </h6>
             </div>
           </div>
@@ -259,10 +258,10 @@
             </div>
             <div class="detail-box">
               <h5>
-                Nathan Mcpherson
+                Raphael King’ori
               </h5>
               <h6 class="">
-                Asian Cusine
+                Chef
               </h6>
             </div>
           </div>

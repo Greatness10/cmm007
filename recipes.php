@@ -38,7 +38,7 @@
                         Recipes 
                     </h1>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis fugit, sed tempora praesentium commodi error, hic recusandae repudiandae neque ad molestias, atque veritatis labore quae eveniet autem in
+                      Discover world of recipes, new cuisines to enhance your culinary skills effortlessly.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -56,10 +56,10 @@
                 <div class="col-lg-10 col-md-11 mx-auto">
                   <div class="detail-box">
                     <h1>
-                      Tasty Sushi Delights
+                      Variety Delights
                     </h1>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis fugit, sed tempora praesentium commodi error, hic recusandae repudiandae neque ad molestias, atque veritatis labore quae eveniet autem in
+                      Enjoy tasty delight of food and recipes across different backgrounds of the world.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -77,10 +77,10 @@
                 <div class="col-lg-10 col-md-11 mx-auto">
                   <div class="detail-box">
                     <h1>
-                      Mouthwatering Pizza Recipes
+                      Recipes
                     </h1>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis fugit, sed tempora praesentium commodi error, hic recusandae repudiandae neque ad molestias, atque veritatis labore quae eveniet autem in
+                    Discover world of recipes, new cuisines to enhance your culinary skills effortlessly.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -117,7 +117,7 @@
           Our Recipes
         </h2>
         <p class="col-lg-8 px-0">
-          If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything
+        Experience the world of delight with our dynamic recipe. Dive into a treasure trove of gourment masterpiece made by renownwed chefs.
         </p>
       </div>
   <section class="chef_section layout_padding">
@@ -127,8 +127,7 @@
           Popular Recipes
         </h2>
         <p>
-          Lorem ipsum dolor sit amet, non odio tincidunt ut ante, lorem a euismod suspendisse vel, sed quam nulla mauris
-          iaculis. Erat eget vitae malesuada, tortor tincidunt porta lorem lectus.
+        Discover diverse recipes, cooking tips, and community favorites on our user-friendly recipe hub
         </p>
       </div>
       <div class="row">
@@ -151,14 +150,14 @@
         <div class="col-md-4 col-sm-6 mx-auto">
           <div class="box">
             <div class="img-box">
-              <img src="images\justine Li.jpg" alt="">
+              <img src="images\af.jpg" alt="">
             </div>
             <div class="detail-box">
               <h5>
-                Denny Butler
+                African Cuisine
               </h5>
               <h6 class="">
-                African Cusine
+                full Recipes
               </h6>
             </div>
           </div>
@@ -166,14 +165,14 @@
         <div class="col-md-4 col-sm-6 mx-auto">
           <div class="box">
             <div class="img-box">
-              <img src="images\ChefRaphael-720x859.jpg" alt="">
+              <img src="images\asia rec.webp" alt="">
             </div>
             <div class="detail-box">
               <h5>
-                Nathan Mcpherson
+                Asian Cuisine
               </h5>
               <h6 class="">
-                Asian Cusine
+                full Recipes
               </h6>
             </div>
           </div>
@@ -181,9 +180,10 @@
       </div>
     </div>
   </section>
-  <section class="info_section ">
-          <div class="container">
-            <div class="info_top">
+  <section
+   class="info_section ">
+        <div class="container">
+          <div class="info_top">
               <div class="row">
                 <div class="col-md-3 ">
                   <a class="navbar-brand" href="index.php">

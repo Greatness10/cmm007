@@ -162,11 +162,11 @@
                             Diverse Recipes, Cooking tips
                           </h1>
                           <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis fugit, sed tempora praesentium commodi error, hic recusandae repudiandae neque ad molestias, atque veritatis labore quae eveniet autem in
+                          Experience the world of delight with our dynamic recipe and chef web application. Dive into a treasure trove of gourment masterpiece made by renownwed chefs.
                           </p>
                           <div class="btn-box">
                             <a href="" class="btn1">
-                              Contact Us
+                              View Recipes
                             </a>
                           </div>
                         </div>
@@ -330,8 +330,7 @@
                 Chefs
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, non odio tincidunt ut ante, lorem a euismod suspendisse vel, sed quam nulla mauris
-                iaculis. Erat eget vitae malesuada, tortor tincidunt porta lorem lectus.
+              Experience the world of delight with our dynamic recipe and chef web application. Dive into a treasure trove of gourment masterpiece made by renownwed chefs
               </p>
             </div>
             <div class="row">
@@ -372,7 +371,7 @@
                   </div>
                   <div class="detail-box">
                     <h5>
-                      Nathan Mcpherson
+                      Andrew
                     </h5>
                     <h6 class="">
                       Chef
