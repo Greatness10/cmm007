@@ -453,10 +453,10 @@
                         </div>
                         <div class="detail-box">
                           <h5>
-                            Jone Mark
+                            Oyinkansola Adewale
                           </h5>
                           <p>
-                            Editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by
+                            Good prospect, there is room for improvement
                           </p>
                           <span>
                             <i class="fa fa-quote-left" aria-hidden="true"></i>
@@ -475,10 +475,10 @@
                         </div>
                         <div class="detail-box">
                           <h5>
-                            Jone Mark
+                            Oyinkansola
                           </h5>
                           <p>
-                            Editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by
+                            there is room for improvement
                           </p>
                           <span>
                             <i class="fa fa-quote-left" aria-hidden="true"></i>
@@ -497,10 +497,10 @@
                         </div>
                         <div class="detail-box">
                           <h5>
-                            Jone Mark
+                            Oyinkansola Adewale
                           </h5>
                           <p>
-                            Editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by
+                            keep working on it
                           </p>
                           <span>
                             <i class="fa fa-quote-left" aria-hidden="true"></i>
